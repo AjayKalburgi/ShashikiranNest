@@ -71,16 +71,14 @@ export default function Home() {
             <h1>Shashikiran Nest - Men's PG</h1>
 
             <p><b>
-              Semi Furnished Rooms (Shared) for Bachelor Men, 2000 sqft spacious area,
-              Rooms with attached toilet & balcony, Common Kitchen, Common Hall /
-              Living Room, Dining area.
+              Semi-furnished shared rooms for achelor men, spread across a spacious 2000 sqft area,
+              Rooms have attached Toilets & Balconies, Common Kitchen, Living room & Dining area.
               <br /> 
-              PG is 200 meters from Srirampura Metro Station 7 Bus Stop, ATM's,
-              Restauarnts & Market is with in 300 meters. PG is located in peaceful
-              Residential area. The property is under CCTV surveillance for security.
+              PG is 200 meters from Srirampura Metro Station & Bus Stop, with ATMs, restaurants, and markets within 300 meters. 
+              The PG is situated in a peaceful residential area. The property is under CCTV surveillance for security.
             </b></p>
 
-            <h2><strong> CONTACT </strong></h2>
+            <h2><strong> CONTACT US </strong></h2>
 
             <h3> 
               📞 <b>Call : </b>    
