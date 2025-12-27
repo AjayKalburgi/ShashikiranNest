@@ -93,7 +93,7 @@ export default function Home() {
               fontFamily: "sans-serif",
             }}
           >
-            <h1>Elite Living Men's PG</h1>
+            <h1>Elite Living Men's PG </h1>
 
             <p><b>
               Semi Furnished shared rooms for Bachelor men, Rooms are spacious having attached Toilets & Balconies, Common Kitchen, Living room & Dining area.
