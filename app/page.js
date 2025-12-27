@@ -128,7 +128,7 @@ export default function Home() {
                 target="_blank"
                 style={{ color: "white" }}
               >
-                1539/81, Sri Amba Krupa, 1st Floor, Nagappa Block,
+                1539/81, Sri Amba Krupa, 1st Floor, 4th Cross, Nagappa Block,
                 Srirampuram (Near Srirampuram Metro Station),
                 Bengaluru, Karnataka – 560021
               </a>
