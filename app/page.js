@@ -41,7 +41,7 @@ export default function Home() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrent((prev) => (prev + 1) % images.length);
-    }, 2500); // ⏱ auto slide every 2.5 sec
+    }, 3000); // ⏱ auto slide every 3 sec
 
     return () => clearInterval(interval);
   }, []);
