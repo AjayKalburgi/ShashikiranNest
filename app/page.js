@@ -4,10 +4,20 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const images = [
-  "/IMG_2364.png",
-  "/TV.jpg",
-  "/Kitchen.jpg",
-  "/Hall.png",
+  "/AaMain.png",
+  "/aaTV.jpg",
+  "/aKitchen.jpg",
+  "/alHall.png",
+  "/ArR1.jpeg",
+  "/ArR2.jpeg",
+  "/ArR3.jpeg",
+  "/ArzB.jpeg",
+  "/MR1.jpeg",
+  "/MR2.jpeg",
+  "/MzB.jpeg",
+  "/SR1.jpeg",
+  "/SB.jpeg",
+  "/SR2.jpeg",
   "/Room 1.png",
   "/Room 2.jpg",
   "/Washroom.jpg",
@@ -31,7 +41,7 @@ export default function Home() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrent((prev) => (prev + 1) % images.length);
-    }, 4000); // ⏱ auto slide every 4 sec
+    }, 2500); // ⏱ auto slide every 2.5 sec
 
     return () => clearInterval(interval);
   }, []);
